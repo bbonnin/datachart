@@ -1,6 +1,7 @@
-# draw-me-a-chart
+# Draw me a chart
 
-> Demo
+> From CSV to a nice chart in a few seconds ! 
+> Demo: https://datachart.surge.sh/
 
 ## Build Setup
 
